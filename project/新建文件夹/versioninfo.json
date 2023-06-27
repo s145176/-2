@@ -1,0 +1,43 @@
+{
+  "FixedFileInfo": {
+    "FileVersion": {
+      "Major": 1,
+      "Minor": 0,
+      "Patch": 0,
+      "Build": 0
+    },
+    "ProductVersion": {
+      "Major": 1,
+      "Minor": 0,
+      "Patch": 0,
+      "Build": 0
+    },
+    "FileFlagsMask": "3f",
+    "FileFlags ": "00",
+    "FileOS": "040004",
+    "FileType": "01",
+    "FileSubType": "00"
+  },
+  "StringFileInfo": {
+    "Comments": "抢羽毛球脚本",
+    "CompanyName": "ikun",
+    "FileDescription": "双击运行",
+    "FileVersion": "v1.0.0.0",
+    "InternalName": "这是程序内部名称",
+    "LegalCopyright": "Copyright (c) 2023 XCGUI",
+    "LegalTrademarks": "",
+    "OriginalFilename": "黑子的羽毛球",
+    "PrivateBuild": "",
+    "ProductName": "黑子的羽毛球",
+    "ProductVersion": "v3.0.0.0",
+    "SpecialBuild": ""
+  },
+  "VarFileInfo": {
+    "Translation": {
+      "LangID": "0804",
+      "CharsetID": "04B0"
+    }
+  },
+  "IconPath": "icon.ico",
+  "ManifestPath": ""
+}
